@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Build
+node_modules
+*.log
+.env
+<<<<<<< HEAD
+=======
+.node-version
+>>>>>>> 533675df3641221879f79375340292a8b799479e
+
+# OSX
+.DS_Store
